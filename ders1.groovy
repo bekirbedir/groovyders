@@ -1,3 +1,9 @@
+http://www.javaworld.com/article/2072503/ranges-in-groovy-are-hip.html
+http://mrhaki.blogspot.com.tr/2009/09/groovy-goodness-keep-your-values-in.html
+http://grails.asia/groovy-times-loop-examples
+https://www.timroes.de/2015/06/27/groovy-tutorial-for-java-developers/
+https://learnxinyminutes.com/docs/groovy/
+
 
 class GroovyDemoMain {
 
